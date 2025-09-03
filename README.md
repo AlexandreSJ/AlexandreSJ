@@ -6,6 +6,8 @@
   My focus is on backend development, containerized environments, and modern software practices.</p>
 </div>
 
+<hr>
+
 <div align="center">
   <a href="https://github.com/AlexandreSJ">
     <img src="https://img.shields.io/badge/GitHub-222?style=flat&logo=GitHub" alt="GitHub" />
@@ -21,6 +23,8 @@
   <p><strong>Computational Science</strong> – Complete (4 years, finished in 2024)</p>
   <p><strong>Solutions Architecture MBA</strong> – WIP (1 year, starts in 2026)</p>
 </div>
+
+<hr>
 
 <div align="center">
   <img src="assets/spring-boot.png" alt="SpringBoot" width="32" />   
