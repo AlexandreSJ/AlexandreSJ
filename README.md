@@ -1,13 +1,8 @@
 <h1 align="center">
   <!-https://capsule-render.vercel.app/-->
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f00,100:bbb&text=Alexandre&section=header&reversal=false&fontColor=fff&textBg=false&fontSize=50&animation=twinkling" 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f00,100:bbb&text=Alexandre&section=header&reversal=false&fontColor=fff&textBg=false&fontSize=50&animation=twinkling&desc=Full%20stack%20dev&descSize=20&descAlignY=60&descAlign=56" 
   alt="Alexandre"/>
 </h1>
-<h2 align="center">
-  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=Full+stack+developer-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=30&lines=Full+stack+developer" 
-  alt="Full stack developer" /></a>
-</h2>
 <div align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices.-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices." 
