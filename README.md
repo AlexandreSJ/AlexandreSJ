@@ -1,9 +1,22 @@
-<h1 align="center">Hi, I'm Alexandre</h1>
+<h1 align="center">
+  <!-https://capsule-render.vercel.app/-->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f00,100:bbb&text=Alexandre&section=header&reversal=false&fontColor=fff&textBg=false&fontSize=50&animation=twinkling" alt="Alexandre"/>
+</h1>
+<h2 align="center">
+  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=Full+stack+developer-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=30&lines=Full+stack+developer" alt="Full stack developer" /></a>
+</h2>
+<div align="center">
+  <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices.-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices." alt="I'm a full stack software developer passionate about building clean, scalable, and reliable solutions. My focus is on backend development, containerized environments, and modern software practices." /></a>
+</div>
+
+<br>
+<br>
 
 <div align="center">
-  <h3>Full stack developer</h3>
-  <p>I'm a full stack software developer passionate about building clean, scalable, and reliable solutions.
-  My focus is on backend development, containerized environments, and modern software practices.</p>
+  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -17,14 +30,17 @@
 
 <hr>
 
-<h3 align="center">My skillset</h3>
+<h3 align="center">
+  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=My+skillset-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=35&lines=My+skillset" alt="Typing SVG" /></a>
+</h3>
 
 <div align="center">
-  <p><strong>Computational Science</strong> – Complete (4 years, finished in 2024)</p>
-  <p><strong>Solutions Architecture MBA</strong> – WIP (1 year, starts in 2026)</p>
+  <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)" alt="Typing SVG" /></a>
 </div>
 
-<hr>
+<br>
 
 <div align="center">
   <img src="assets/spring-boot.png" alt="SpringBoot" width="32" />
@@ -65,3 +81,12 @@
     <img src="https://geps.dev/progress/10" alt="10%" />
   </div>
 </div>
+
+<hr>
+
+<div align="center">
+  <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+programming+since+2016-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+programming+since+2016" alt="Typing SVG" /></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:f00,100:bbb&height=100&section=footer"/>
