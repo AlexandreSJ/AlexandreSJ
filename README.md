@@ -1,14 +1,17 @@
 <h1 align="center">
   <!-https://capsule-render.vercel.app/-->
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f00,100:bbb&text=Alexandre&section=header&reversal=false&fontColor=fff&textBg=false&fontSize=50&animation=twinkling" alt="Alexandre"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:f00,100:bbb&text=Alexandre&section=header&reversal=false&fontColor=fff&textBg=false&fontSize=50&animation=twinkling" 
+  alt="Alexandre"/>
 </h1>
 <h2 align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=Full+stack+developer-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=30&lines=Full+stack+developer" alt="Full stack developer" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=30&lines=Full+stack+developer" 
+  alt="Full stack developer" /></a>
 </h2>
 <div align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices.-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices." alt="I'm a full stack software developer passionate about building clean, scalable, and reliable solutions. My focus is on backend development, containerized environments, and modern software practices." /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=I'm+a+full+stack+software+developer+passionate+about+;building+clean%2C+scalable%2C+and+reliable+solutions.;+;My+focus+is+on+backend+development%2C+containerized+;environments%2C+and+modern+software+practices." 
+  alt="I'm a full stack software developer passionate about building clean, scalable, and reliable solutions. My focus is on backend development, containerized environments, and modern software practices." /></a>
 </div>
 
 <br>
@@ -16,28 +19,33 @@
 
 <div align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown" 
+  alt="Invent the future / Chase what inspires you / Create something now / Redesign yourself everyday / Learn something new / Grow through change / Stay curious / Give it a try / Embrace the unknown" /></a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AlexandreSJ">
-    <img src="https://img.shields.io/badge/GitHub-222?style=flat&logo=GitHub" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-222?style=flat&logo=GitHub" 
+  alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/alexandre-da-silva-junior-b51000196/">
-    <img src="https://img.shields.io/badge/Linkedin-36e?style=flat" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Linkedin-36e?style=flat" 
+  alt="LinkedIn" />
   </a>
 </div>
 
 <hr>
 
-<h3 align="center">
+<h2 align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=My+skillset-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=35&lines=My+skillset" alt="Typing SVG" /></a>
-</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=35&lines=My+skillset" 
+  alt="My skillset" /></a>
+</h2>
 
 <div align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)" alt="Computational Science (4 years, finished in 2024) / Solutions Architecture MBA (1 year, starts in 2026)" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)" 
+  alt="Computational Science (4 years, finished in 2024) / Solutions Architecture MBA (1 year, starts in 2026)" /></a>
 </div>
 
 <br>
@@ -59,6 +67,11 @@
 
 <br>
 
+<h2 align="center">
+  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=My+languages-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=35&lines=My+languages"  
+  alt="My languages" /></a>
+</h2>
 <div align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&lines=Sou+brasileiro!;I'm+brazilian!;Soy+brasile%C3%B1o!;%E7%A7%81%E3%81%AF%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA%E3%81%A7%E3%81%99%EF%BC%81;Ich+bin+Brasilianer!-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Sou+brasileiro!;I'm+brazilian!;Soy+brasile%C3%B1o!;%E7%A7%81%E3%81%AF%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA%E3%81%A7%E3%81%99%EF%BC%81;Ich+bin+Brasilianer!" alt="Sou brasileiro!/I'm brazilian!" /></a>
