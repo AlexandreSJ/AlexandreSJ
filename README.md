@@ -37,7 +37,7 @@
 
 <div align="center">
   <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)" alt="Computational Science (4 years, finished in 2024) / Solutions Architecture MBA (1 year, starts in 2026)" /></a>
 </div>
 
 <br>
@@ -58,6 +58,11 @@
 </div>
 
 <br>
+
+<div align="center">
+  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&lines=Sou+brasileiro!;I'm+brazilian!;Soy+brasile%C3%B1o!;%E7%A7%81%E3%81%AF%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA%E3%81%A7%E3%81%99%EF%BC%81;Ich+bin+Brasilianer!-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Sou+brasileiro!;I'm+brazilian!;Soy+brasile%C3%B1o!;%E7%A7%81%E3%81%AF%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA%E3%81%A7%E3%81%99%EF%BC%81;Ich+bin+Brasilianer!" alt="Sou brasileiro!/I'm brazilian!" /></a>
+</div>
 
 <div align="center">
   <div>
@@ -85,8 +90,8 @@
 <hr>
 
 <div align="center">
-  <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+programming+since+2016-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+programming+since+2016" alt="Typing SVG" /></a>
+  <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=115&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+music+and+learning+languages;I+love+programming+since+2016-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=115&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+music+and+learning+languages;I+love+programming+since+2016" alt="Working on a solid portfolio with my skills and my own UE5 game / Learning WebSocket & software architecture principles / Interested in UX/UI design and human-centered tech / Passionate about creating something cool / I love music and learning languages / I love programming since 2016" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:f00,100:bbb&height=100&section=footer"/>
