@@ -112,7 +112,7 @@
   <hr>
 </details>
 
-<details>
+<details open>
   <summary>
     <div align="center">
       <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=Git+Stats-->
@@ -133,7 +133,7 @@
   <hr>
 </details>
 
-<details>
+<details open>
   <summary>
     <div align="center">
       <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=35&lines=About+me-->
