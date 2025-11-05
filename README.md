@@ -143,7 +143,13 @@
   </summary>
   <div align="center">
     <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=115&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+music+and+learning+languages;I+love+programming+since+2016-->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=115&lines=Working+on+a+solid+portfolio+with+my+skills+and+my+own+UE5+game;Learning+WebSocket+%26+software+architecture+principles;Interested+in+UX%2FUI+design+and+human-centered+tech;Passionate+about+creating+something+cool;I+love+music+and+learning+languages;I+love+programming+since+2016" alt="Working on a solid portfolio with my skills and my own UE5 game / Learning WebSocket & software architecture principles / Interested in UX/UI design and human-centered tech / Passionate about creating something cool / I love music and learning languages / I love programming since 2016" />
+    <img src="
+      https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=535&height=115&lines=Currently+learning+about+software+architecture+principles+%F0%9F%A7%A0;Interested+in+UX%2FUI+design+and+human-centered+tech+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Passionate+about+creating+something+cool+%F0%9F%A4%99;I+love+music+and+learning+languages+%F0%9F%8E%8C;I+love+programming%2C+since+2016+%F0%9F%9A%80
+      "
+      alt="
+      Currently learning about software architecture principles 🧠 / Interested in UX/UI design and human-centered tech 👩‍💻 / Passionate about creating something cool 🤙 / I love music and learning languages 🎌 / I love programming, since 2016 🚀
+      " 
+    />
   </div>
 </details>
 
