@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <!-https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown-->
+  <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;More+to+come...-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Invent+the+future;Chase+what+inspires+you;Create+something+now;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown" 
   alt="Invent the future / Chase what inspires you / Create something now / Redesign yourself everyday / Learn something new / Grow through change / Stay curious / Give it a try / Embrace the unknown" /></a>
 </div>
@@ -47,8 +47,8 @@
   </summary>
   <div align="center">
     <!-https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)-->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;Solutions+Architecture+MBA;(1+year%2C+starts+in+2026)" 
-    alt="Computational Science (4 years, finished in 2024) / Solutions Architecture MBA (1 year, starts in 2026)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;More+to+come..." 
+    alt="Computational Science (4 years, finished in 2024) / More to come..." />
   </div>
   
   <br>
