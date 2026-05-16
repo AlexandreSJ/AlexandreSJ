@@ -7,40 +7,25 @@
   <img src="https://www.worldometers.info/img/flags/br-flag.gif" alt="Brasil" width="24" />
   <br>
   <br>
-  <br>
   <p>
-    <br>
     I am a creative person that is always looking for innovation, and I am passionate about building clean, modern, scalable and reliable solutions. 
   </p>
+  <br>
+  <a href="https://aelxand.vercel.app"><img src="https://img.shields.io/badge/my%20portfolio-c23?style=for-the-badge&logo=vercel" alt="My portfolio" /></a>
+  <br>
   <br>
   <br>
   <br>
   <!--https://capsule-render.vercel.app/ -->
-  <img width=450px src="https://capsule-render.vercel.app/api?type=speech&height=100&color=0:f45,100:e02&text=keep%20it&section=header&reversal=true&fontAlign=22&fontAlignY=57&fontSize=48&fontColor=0:f45,100:e02&desc=up!&descAlignY=40&descAlign=34&descSize=24" 
-  alt="keep it up"/>
+  <img width=450px src="https://capsule-render.vercel.app/api?type=speech&height=100&color=0:f45,100:e02&text=keep%20it&section=header&reversal=true&fontAlign=22&fontAlignY=57&fontSize=48&fontColor=0:f45,100:e02&desc=up!&descAlignY=40&descAlign=34&descSize=24" alt="keep it up"/>
   <br>
-  <a href="https://github.com/AlexandreSJ">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" 
-  alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandre-da-silva-junior/">
-    <img src="https://img.shields.io/badge/Linkedin-fff?style=for-the-badge&logo=logmein" 
-  alt="LinkedIn" />
-  <a href="https://buymeacoffee.com/aelxand">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-000?style=for-the-badge&logo=buymeacoffee"
-  alt="Buy me a coffee" />
-  </a>
+  <a href="https://github.com/AlexandreSJ"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/alexandre-da-silva-junior/"><img src="https://img.shields.io/badge/Linkedin-fff?style=for-the-badge&logo=logmein" alt="LinkedIn" /></a>
+  <a href="https://buymeacoffee.com/aelxand"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-000?style=for-the-badge&logo=buymeacoffee" alt="Buy me a coffee" /></a>
   <br>
-  <a href="https://open.spotify.com/user/31qxydlur4yyxhsxfputmv56a66u?si=29008fe74d284812">
-    <img src="https://img.shields.io/badge/@Aelxand-000?style=for-the-badge&logo=spotify" 
-  alt="Spotify-@Aelxand" />
-  </a>
-  <a href="https://www.reddit.com/user/Aelxande/">
-    <img src="https://img.shields.io/badge/@Aelxande-fff?style=for-the-badge&logo=reddit" 
-  alt="Reddit-@Aelxande" />
-  </a>
-  <img src="https://img.shields.io/badge/@Aelxand-000?style=for-the-badge&logo=discord" 
-  alt="Discord-@Aelxand" />
+  <a href="https://open.spotify.com/user/31qxydlur4yyxhsxfputmv56a66u?si=29008fe74d284812"><img src="https://img.shields.io/badge/@Aelxand-000?style=for-the-badge&logo=spotify" alt="Spotify-@Aelxand" /></a>
+  <a href="https://www.reddit.com/user/Aelxande/"><img src="https://img.shields.io/badge/@Aelxande-fff?style=for-the-badge&logo=reddit" alt="Reddit-@Aelxande" /></a>
+  <img src="https://img.shields.io/badge/@Aelxand-000?style=for-the-badge&logo=discord" alt="Discord-@Aelxand" />
   <br>
   <br>
   <h3>My stacks</h3>
@@ -114,44 +99,21 @@
     <img src="https://www.worldometers.info/img/flags/ja-flag.gif" alt="Japanese" width="32" />
     <img src="https://geps.dev/progress/35" alt="35%" />
   </div>
-  <div>
-    <img src="https://www.worldometers.info/img/flags/gm-flag.gif" alt="German" width="32" />
-    <img src="https://geps.dev/progress/10" alt="10%" />
-  </div>
-  <div>
-    <h4>More...?</h4>
-    <h5>I would love to invest more time learning:</h5>
-    <div>
-      Italian, French, Russian, Korean, Filipino, Mandarin
-    </div>
-    <h5>I am all in for fictional languages as well:</h5>
-    <div>
-      <b>Trig</b>, from "The 100"
-      <br>
-      <b>Valyrian</b>, from "GOT"
-      <br>
-      <b>Tafgahop</b>, from the voices in my head
-    </div>
-  </div>
+  <br>
+  <br>
+  <br>
+  <h3>See my latest projects</h3>
+  <a href="https://github.com/AlexandreSJ/aelxand"><img src="https://img.shields.io/badge/aelxand-dd2222?style=for-the-badge&logo=github" alt="aelxand" /></a>
+  <br>
+  <a href="https://github.com/AlexandreSJ/web-dj"><img src="https://img.shields.io/badge/webdj-9944aa?style=for-the-badge&logo=github" alt="web-dj" /></a>
+  <br>
+  <a href="https://github.com/AlexandreSJ/aoi"><img src="https://img.shields.io/badge/aoi-0af?style=for-the-badge&logo=github" alt="aoi" /></a>
   <br>
   <br>
   <br>
   <!--https://readme-typing-svg.demolab.com/demo/?size=12&duration=1&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&height=100&lines=Computational+Science;(4+years%2C+finished+in+2024);+;More+to+come...-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Invent+the+future;Chase+what+inspires+you;Create+something+new;Redesign+yourself+everyday;Learn+something+new;Grow+through+change;Stay+curious;Give+it+a+try;Embrace+the+unknown" 
   alt="Invent the future / Chase what inspires you / Create something new / Redesign yourself everyday / Learn something new / Grow through change / Stay curious / Give it a try / Embrace the unknown" /></a>
-  <br>
-  <br>
-  <h3>See my latest projects</h3>
-  <br>
-  <a href="https://github.com/AlexandreSJ/aoi"><img src="https://img.shields.io/badge/aoi-0af?style=for-the-badge&logo=github" alt="aoi" /></a>
-  <a href="https://github.com/AlexandreSJ/puddle"><img src="https://img.shields.io/badge/puddle-fff?style=for-the-badge&logo=go" alt="puddle" /></a>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   <br>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f45,100:e02&section=footer"/>
 </div>
