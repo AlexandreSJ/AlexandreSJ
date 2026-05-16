@@ -78,7 +78,6 @@
   <br>
   <br>
   <h3>My languages</h3>
-  <br>
   <!--https://readme-typing-svg.demolab.com/demo/?weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&lines=Sou+brasileiro!;I'm+brazilian!;Soy+brasile%C3%B1o!;%E7%A7%81%E3%81%AF%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA%E3%81%A7%E3%81%99%EF%BC%81;Ich+bin+Brasilianer!-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=3000&color=C84349&center=true&vCenter=true&width=435&lines=Sou+brasileiro!;I'm+brazilian!;Soy+brasile%C3%B1o!;%E7%A7%81%E3%81%AF%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E4%BA%BA%E3%81%A7%E3%81%99%EF%BC%81;Ich+bin+Brasilianer!" 
   alt="Sou brasileiro! / I'm brazilian!" /></a>
@@ -101,11 +100,12 @@
   </div>
   <br>
   <br>
-  <br>
   <h3>See my latest projects</h3>
-  <a href="https://github.com/AlexandreSJ/aelxand"><img src="https://img.shields.io/badge/aelxand-dd2222?style=for-the-badge&logo=github" alt="aelxand" /></a>
+  <a href="https://github.com/AlexandreSJ/aelxand"><img src="https://img.shields.io/badge/-dd2222?style=for-the-badge&logo=github" alt="aelxand" /></a>
+  <a href="https://aelxand.vercel.app"><img src="https://img.shields.io/badge/my%20portfolio-dd2222?style=for-the-badge&logo=vercel" alt="My portfolio" /></a>
   <br>
-  <a href="https://github.com/AlexandreSJ/web-dj"><img src="https://img.shields.io/badge/webdj-9944aa?style=for-the-badge&logo=github" alt="web-dj" /></a>
+  <a href="https://github.com/AlexandreSJ/web-dj"><img src="https://img.shields.io/badge/-9944aa?style=for-the-badge&logo=github" alt="web-dj" /></a>
+  <a href="https://web-dj-portal.vercel.app"><img src="https://img.shields.io/badge/web%20dj-9944aa?style=for-the-badge&logo=vercel" alt="Web DJ" /></a>
   <br>
   <a href="https://github.com/AlexandreSJ/aoi"><img src="https://img.shields.io/badge/aoi-0af?style=for-the-badge&logo=github" alt="aoi" /></a>
   <br>
