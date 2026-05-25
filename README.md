@@ -29,8 +29,8 @@
   <br>
   <br>
   <h3>My stacks</h3>
+  <img src="https://img.shields.io/badge/Degree%20in%20Computational%20Science%20(4%20years,%20finished%20in%202024)-fff?style=for-the-badge" alt="Degree in Computational Science (4 years, finished in 2024)" />
   <br>
-  <p>Degree in Computational Science (4 years, finished in 2024)</p>
   <br>
   <img src="https://img.shields.io/badge/archlinux-001?style=for-the-badge&logo=archlinux" alt="Archlinux" />
   <img src="https://img.shields.io/badge/ubuntu-100?style=for-the-badge&logo=ubuntu" alt="Ubuntu" />
@@ -101,13 +101,15 @@
   <br>
   <br>
   <h3>See my latest projects</h3>
-  <a href="https://github.com/AlexandreSJ/aelxand"><img src="https://img.shields.io/badge/-dd2222?style=for-the-badge&logo=github" alt="aelxand" /></a>
-  <a href="https://aelxand.vercel.app"><img src="https://img.shields.io/badge/my%20portfolio-dd2222?style=for-the-badge&logo=vercel" alt="My portfolio" /></a>
+  <a href="https://github.com/AlexandreSJ/aelxand"><img src="https://img.shields.io/badge/my%20portfolio-dd2222?style=for-the-badge&logo=github" alt="aelxand" /></a>
+  <a href="https://aelxand.vercel.app"><img src="https://img.shields.io/badge/see%20live-dd2222?style=for-the-badge&logo=vercel" alt="See live" /></a>
   <br>
-  <a href="https://github.com/AlexandreSJ/web-dj"><img src="https://img.shields.io/badge/-9944aa?style=for-the-badge&logo=github" alt="web-dj" /></a>
-  <a href="https://web-dj-portal.vercel.app"><img src="https://img.shields.io/badge/web%20dj-9944aa?style=for-the-badge&logo=vercel" alt="Web DJ" /></a>
+  <a href="https://github.com/AlexandreSJ/web-dj"><img src="https://img.shields.io/badge/web%20dj-9944aa?style=for-the-badge&logo=github" alt="web-dj" /></a>
+  <a href="https://web-dj-portal.vercel.app"><img src="https://img.shields.io/badge/see%20live-9944aa?style=for-the-badge&logo=vercel" alt="See live" /></a>
   <br>
-  <a href="https://github.com/AlexandreSJ/aoi"><img src="https://img.shields.io/badge/aoi-0af?style=for-the-badge&logo=github" alt="aoi" /></a>
+  <a href="https://github.com/AlexandreSJ/aoi"><img src="https://img.shields.io/badge/aoi%20tui-0af?style=for-the-badge&logo=github" alt="AOI TUI" /></a>
+  <a href="https://github.com/AlexandreSJ/aoi-web"><img src="https://img.shields.io/badge/aoi%20web-0af?style=for-the-badge&logo=github" alt="AOI WEB" /></a>
+  <a href="https://aoi-online.vercel.app/"><img src="https://img.shields.io/badge/see%20live-0af?style=for-the-badge&logo=vercel" alt="See live" /></a>
   <br>
   <br>
   <br>
