@@ -35,7 +35,7 @@
 
 ## About me
 - Fullstack developer
-- Cybersecurity enthusiast
+- Linux and Cybersecurity enthusiast (arch btw)
 - D&D player
 - Guitar and bass player
 - I'm Brazilian and I speak:
