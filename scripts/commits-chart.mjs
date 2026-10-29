@@ -75,7 +75,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" 
     }
   </style>
   <text class="title" x="${padX}" y="32">Commits since ${firstYear}</text>
-  <text class="total" x="${padX}" y="54">${total.toLocaleString("en-US")} total · public + private · updated ${new Date().toISOString().slice(0, 10)}</text>
+  <text class="total" x="${padX}" y="54">${total.toLocaleString("en-US")} total · ${new Date().toISOString().slice(0, 10)}</text>
   <line class="axis" x1="${padX}" x2="${W - padX}" y1="${top + plotH}" y2="${top + plotH}"/>${bars}
 </svg>
 `;
