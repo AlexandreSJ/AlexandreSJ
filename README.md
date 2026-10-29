@@ -22,10 +22,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/chart/github/commits/AlexandreSJ.svg?theme=red&transparent=true&title=Commits%20since%202019&mode=dark&height=300&font=fira-code&bg=transparent&color=ee0022">
-    <img width="92%" src="https://shieldcn.dev/chart/github/commits/AlexandreSJ.svg?theme=red&transparent=true&title=Commits%20since%202019&mode=light&height=300&font=fira-code&bg=transparent&color=ee0022" alt="Lifetime commit history">
-  </picture>
+  <img width="92%" src="assets/commits.svg" alt="Lifetime commit history">
 </p>
 
 ```markdown
