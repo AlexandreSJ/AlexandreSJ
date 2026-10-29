@@ -13,7 +13,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSJ&layout=compact&langs_count=6&disable_animations=true&theme=transparent&hide_border=true&custom_title=Most%20used%20languages&title_color=ee0022&text_color=c9d1d9">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSJ&layout=compact&langs_count=6&disable_animations=true&theme=transparent&hide_border=true&custom_title=Most%20used%20languages&title_color=ee0022&text_color=1f2328" alt="Most used languages">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSJ&layout=compact&langs_count=6&disable_animations=true&theme=transparent&hide_border=true&custom_title=Most%20used%20languages&title_color=ee0022&text_color=1f2328" alt="Most used languages">
   </picture>
 </p>
 
